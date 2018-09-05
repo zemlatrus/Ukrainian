@@ -1,0 +1,730 @@
+{
+  "type": "directory",
+  "name": "Ukrainian",
+  "_children": [
+    {
+      "type": "directory",
+      "name": "Nouns",
+      "id": "AB-3133",
+      "_children": [
+        {
+          "type": "directory",
+          "name": "Animate",
+          "id": "AB-31608",
+          "_children": [
+            {
+              "type": "directory",
+              "name": "Nature",
+              "id": "AB-37404",
+              "_children": [
+                {
+                  "type": "directory",
+                  "name": "Nature",
+                  "id": "AB-14973",
+                  "_children": [
+                    {
+                      "type": "file",
+                      "name": "Weather",
+                      "id": "AB-75275",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/Nature/Nature/Weather.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Plants",
+                      "id": "AB-88866",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/Nature/Nature/Plants.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Natural world",
+                      "id": "AB-29315",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/Nature/Nature/Natural world.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Trees",
+                      "id": "AB-79356",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/Nature/Nature/Trees.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "directory",
+                  "name": "Creatures",
+                  "id": "AB-3002",
+                  "_children": [
+                    {
+                      "type": "file",
+                      "name": "Insects",
+                      "id": "AB-22422",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/Nature/Creatures/Insects.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Mammals",
+                      "id": "AB-63674",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/Nature/Creatures/Mammals.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Amphibians",
+                      "id": "AB-4420",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/Nature/Creatures/Amphibians.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Reptiles",
+                      "id": "AB-18298",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/Nature/Creatures/Reptiles.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Birds",
+                      "id": "AB-24022",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/Nature/Creatures/Birds.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Common",
+                      "id": "AB-50131",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/Nature/Creatures/Common.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Fish",
+                      "id": "AB-91943",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/Nature/Creatures/Fish.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "directory",
+              "name": "People",
+              "id": "AB-81585",
+              "_children": [
+                {
+                  "type": "directory",
+                  "name": "Descriptions",
+                  "id": "AB-3046",
+                  "_children": [
+                    {
+                      "type": "file",
+                      "name": "Gathering",
+                      "id": "AB-25770",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Descriptions/Gathering.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Occupations",
+                      "id": "AB-33793",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Descriptions/Occupations.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "People",
+                      "id": "AB-79832",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Descriptions/People.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "directory",
+                  "name": "Mental",
+                  "id": "AB-68288",
+                  "_children": [
+                    {
+                      "type": "file",
+                      "name": "Communication",
+                      "id": "AB-41460",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Mental/Communication.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Mental process",
+                      "id": "AB-12641",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Mental/Mental process.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "directory",
+                  "name": "Life",
+                  "id": "AB-99297",
+                  "_children": [
+                    {
+                      "type": "file",
+                      "name": "Health",
+                      "id": "AB-20552",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Life/Health.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Anatomy",
+                      "id": "AB-20189",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Life/Anatomy.pdf"
+                    },
+                    {
+                      "type": "directory",
+                      "name": "Food",
+                      "id": "AB-59703",
+                      "_children": [
+                        {
+                          "type": "file",
+                          "name": "Fruits",
+                          "id": "AB-84851",
+                          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Life/Food/Fruits.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "Dairy",
+                          "id": "AB-60319",
+                          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Life/Food/Dairy.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "Dessert",
+                          "id": "AB-900",
+                          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Life/Food/Dessert.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "Ukrainian dishes",
+                          "id": "AB-67814",
+                          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Life/Food/Ukrainian dishes.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "Beverages",
+                          "id": "AB-27268",
+                          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Life/Food/Beverages.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "Meat",
+                          "id": "AB-81387",
+                          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Life/Food/Meat.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "Baked goods",
+                          "id": "AB-27213",
+                          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Life/Food/Baked goods.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "Seafood",
+                          "id": "AB-35265",
+                          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Life/Food/Seafood.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "Grain",
+                          "id": "AB-43570",
+                          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Life/Food/Grain.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "Miscellaneous",
+                          "id": "AB-58225",
+                          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Life/Food/Miscellaneous.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "Herbs",
+                          "id": "AB-85224",
+                          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Life/Food/Herbs.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "Vegetables",
+                          "id": "AB-44538",
+                          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Animate/People/Life/Food/Vegetables.pdf"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "directory",
+                  "name": "Actions",
+                  "id": "AB-70613",
+                  "_children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "directory",
+          "name": "Inanimate",
+          "id": "AB-87014",
+          "_children": [
+            {
+              "type": "directory",
+              "name": "Abstract",
+              "id": "AB-5125",
+              "_children": [
+                {
+                  "type": "file",
+                  "name": "Abstract",
+                  "id": "AB-63282",
+                  "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Abstract/Abstract.pdf"
+                }
+              ]
+            },
+            {
+              "type": "directory",
+              "name": "Descriptions",
+              "id": "AB-6063",
+              "_children": [
+                {
+                  "type": "directory",
+                  "name": "Materials",
+                  "id": "AB-85992",
+                  "_children": [
+                    {
+                      "type": "file",
+                      "name": "Shapes",
+                      "id": "AB-66380",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Descriptions/Materials/Shapes.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Substances",
+                      "id": "AB-26625",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Descriptions/Materials/Substances.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Quantities",
+                      "id": "AB-48366",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Descriptions/Materials/Quantities.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Properties",
+                      "id": "AB-36324",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Descriptions/Materials/Properties.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Colours",
+                      "id": "AB-22592",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Descriptions/Materials/Colours.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "directory",
+                  "name": "Places",
+                  "id": "AB-9039",
+                  "_children": [
+                    {
+                      "type": "file",
+                      "name": "Place",
+                      "id": "AB-17684",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Descriptions/Places/Place.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Locations",
+                      "id": "AB-77359",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Descriptions/Places/Locations.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Building",
+                      "id": "AB-44392",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Descriptions/Places/Building.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Infrastructure",
+                      "id": "AB-13322",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Descriptions/Places/Infrastructure.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Countries",
+                      "id": "AB-90998",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Descriptions/Places/Countries.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "directory",
+                  "name": "Time",
+                  "id": "AB-98252",
+                  "_children": [
+                    {
+                      "type": "file",
+                      "name": "Seasons",
+                      "id": "AB-36691",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Descriptions/Time/Seasons.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Months",
+                      "id": "AB-20840",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Descriptions/Time/Months.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Time",
+                      "id": "AB-47066",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Descriptions/Time/Time.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Days",
+                      "id": "AB-59952",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Descriptions/Time/Days.pdf"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "directory",
+              "name": "Objects",
+              "id": "AB-18884",
+              "_children": [
+                {
+                  "type": "file",
+                  "name": "Clothes",
+                  "id": "AB-74282",
+                  "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Objects/Clothes.pdf"
+                },
+                {
+                  "type": "directory",
+                  "name": "Home",
+                  "id": "AB-45256",
+                  "_children": [
+                    {
+                      "type": "file",
+                      "name": "Living room",
+                      "id": "AB-78823",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Objects/Home/Living room.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Bedroom",
+                      "id": "AB-29408",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Objects/Home/Bedroom.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Bathroom",
+                      "id": "AB-39715",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Objects/Home/Bathroom.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Garden",
+                      "id": "AB-51140",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Objects/Home/Garden.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Kitchen",
+                      "id": "AB-46075",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Objects/Home/Kitchen.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "file",
+                  "name": "Buildings",
+                  "id": "AB-94780",
+                  "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Objects/Buildings.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "Miscellaneous",
+                  "id": "AB-26987",
+                  "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Objects/Miscellaneous.pdf"
+                },
+                {
+                  "type": "file",
+                  "name": "Furniture",
+                  "id": "AB-18059",
+                  "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Objects/Furniture.pdf"
+                }
+              ]
+            },
+            {
+              "type": "directory",
+              "name": "Society",
+              "id": "AB-97801",
+              "_children": [
+                {
+                  "type": "directory",
+                  "name": "Institutions",
+                  "id": "AB-84901",
+                  "_children": [
+                    {
+                      "type": "file",
+                      "name": "Military",
+                      "id": "AB-45504",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Institutions/Military.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "State",
+                      "id": "AB-41954",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Institutions/State.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Media",
+                      "id": "AB-15622",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Institutions/Media.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Education",
+                      "id": "AB-29713",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Institutions/Education.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Government",
+                      "id": "AB-69030",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Institutions/Government.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Religion",
+                      "id": "AB-21926",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Institutions/Religion.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Justice",
+                      "id": "AB-36594",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Institutions/Justice.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "directory",
+                  "name": "Commerce",
+                  "id": "AB-70354",
+                  "_children": [
+                    {
+                      "type": "file",
+                      "name": "Hotel",
+                      "id": "AB-83083",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Commerce/Hotel.pdf"
+                    },
+                    {
+                      "type": "directory",
+                      "name": "Transportation",
+                      "id": "AB-73237",
+                      "_children": [
+                        {
+                          "type": "file",
+                          "name": "Cars",
+                          "id": "AB-97528",
+                          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Commerce/Transportation/Cars.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "Public transport",
+                          "id": "AB-88760",
+                          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Commerce/Transportation/Public transport.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "Trains",
+                          "id": "AB-11566",
+                          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Commerce/Transportation/Trains.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "Airplanes",
+                          "id": "AB-38975",
+                          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Commerce/Transportation/Airplanes.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "General",
+                          "id": "AB-65893",
+                          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Commerce/Transportation/General.pdf"
+                        },
+                        {
+                          "type": "file",
+                          "name": "Boats",
+                          "id": "AB-93596",
+                          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Commerce/Transportation/Boats.pdf"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "file",
+                      "name": "Commerce ",
+                      "id": "AB-69073",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Commerce/Commerce .pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Shop",
+                      "id": "AB-14414",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Commerce/Shop.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Infrastructure",
+                      "id": "AB-43310",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Commerce/Infrastructure.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "directory",
+                  "name": "Knowledge",
+                  "id": "AB-23417",
+                  "_children": [
+                    {
+                      "type": "file",
+                      "name": "Science",
+                      "id": "AB-20329",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Knowledge/Science.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Subjects",
+                      "id": "AB-49698",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Knowledge/Subjects.pdf"
+                    }
+                  ]
+                },
+                {
+                  "type": "directory",
+                  "name": "Culture",
+                  "id": "AB-27180",
+                  "_children": [
+                    {
+                      "type": "file",
+                      "name": "Instruments",
+                      "id": "AB-39742",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Culture/Instruments.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Sports",
+                      "id": "AB-7696",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Culture/Sports.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Musical terms",
+                      "id": "AB-59791",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Culture/Musical terms.pdf"
+                    },
+                    {
+                      "type": "file",
+                      "name": "Culture",
+                      "id": "AB-45677",
+                      "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Nouns/Inanimate/Society/Culture/Culture.pdf"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_parents": [
+    {
+      "type": "directory",
+      "name": "Verbs",
+      "id": "AB-44620",
+      "_parents": [
+        {
+          "type": "file",
+          "name": "Movement",
+          "id": "AB-92365",
+          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Verbs/Movement.pdf"
+        },
+        {
+          "type": "file",
+          "name": "Abstract action",
+          "id": "AB-39438",
+          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Verbs/Abstract action.pdf"
+        },
+        {
+          "type": "file",
+          "name": "Sensory processes",
+          "id": "AB-81296",
+          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Verbs/Sensory processes.pdf"
+        },
+        {
+          "type": "file",
+          "name": "Possession",
+          "id": "AB-66381",
+          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Verbs/Possession.pdf"
+        },
+        {
+          "type": "file",
+          "name": "Mental processes",
+          "id": "AB-84032",
+          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Verbs/Mental processes.pdf"
+        },
+        {
+          "type": "file",
+          "name": "Communication",
+          "id": "AB-79277",
+          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Verbs/Communication.pdf"
+        },
+        {
+          "type": "file",
+          "name": "Physical action",
+          "id": "AB-52461",
+          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Verbs/Physical action.pdf"
+        }
+      ]
+    },
+    {
+      "type": "directory",
+      "name": "Other",
+      "id": "AB-84558",
+      "_parents": [
+        {
+          "type": "file",
+          "name": "Adverbs",
+          "id": "AB-62615",
+          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Other/Adverbs.pdf"
+        },
+        {
+          "type": "file",
+          "name": "Preposition",
+          "id": "AB-24260",
+          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Other/Preposition.pdf"
+        },
+        {
+          "type": "file",
+          "name": "Conjunctions",
+          "id": "AB-72533",
+          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Other/Conjunctions.pdf"
+        },
+        {
+          "type": "file",
+          "name": "Adjectives",
+          "id": "AB-82641",
+          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Other/Adjectives.pdf"
+        },
+        {
+          "type": "file",
+          "name": "Pronouns",
+          "id": "AB-5906",
+          "link": "https://rawgit.com/zemlatrus/Ukrainian/master/Other/Pronouns.pdf"
+        }
+      ]
+    }
+  ]
+}
